@@ -3,8 +3,8 @@
 
 
 <div style="display: flex; flex-direction: row; width: 100%">
-    <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api?username=B0Y3R&count_private=true&show_icons=true&card_width=300&hide_border=true&theme=radical" />
-    <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0Y3R&layout=compact&langs_count=4&hide=CSS,HTML,TypeScript,Objective-C&hide_border=true&theme=radical" />
+    <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api?username=B0Y3R&count_private=true&show_icons=true&card_width=300&theme=radical" />
+    <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0Y3R&layout=compact&langs_count=4&hide=CSS,HTML,TypeScript,Objective-C&theme=radical" />
 </div>
 <h4>General Preferred Setup </h4>
 <div style="display: flex; flex-direction: row; width: 50%; flex-wrap: wrap">
