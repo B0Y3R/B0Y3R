@@ -1,4 +1,4 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm James, a self-taught software engineer focused on building web and mobile applications
+### Hey there! I'm James, a self-taught software engineer focused on building web and mobile applications
 ### Currently i'm a full stack engineer @ [BentoBox](https://getbento.com) working with React / Python - [come work with me!](https://getbento.com/careers/)
 
 
