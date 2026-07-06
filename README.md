@@ -1,8 +1,8 @@
 # James Boyer
 
-**Engineering manager, Core Mobile at Ava Labs.** I build secure crypto wallets on iOS and Android, and lead the teams that ship them.
+**Engineering manager, Core Mobile at Ava Labs.** I build secure crypto wallets on iOS and Android, and lead the global team that ships them to more than a million users. Player-coach by default: still in the codebase for the hard architecture calls, not just the org chart.
 
-Most of my depth is in high-trust mobile: passkeys and FIDO2, wallet recovery, encryption, and crypto custody, from my time at Casa and Chamber. Before software I diagnosed cars for Mercedes-Benz and Nissan, which is still how I think. Systems, root cause, and craft under pressure.
+Seven-plus years in high-trust mobile: passkeys and FIDO2, wallet recovery, encryption, and crypto custody. Most of it at Chamber and Casa (Chamber was acquired by Casa in 2024), building 0-to-1 security products that held up to third-party audits. Before software I diagnosed cars for Mercedes-Benz and Nissan, which is still how I think. Systems, root cause, and craft under pressure.
 
 ### What I work on
 - Secure mobile for crypto: native iOS and Android, React Native, Flutter
