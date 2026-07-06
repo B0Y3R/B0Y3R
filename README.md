@@ -15,7 +15,7 @@ Most of my depth is in high-trust mobile: passkeys and FIDO2, wallet recovery, e
 - **Bitcoin and Liquid treasury custody:** wallet-agnostic UTXO and PSBT coordinators with real role-based access, built with family offices and BTC/Liquid treasuries in mind. Ongoing research.
 
 ### What I'm thinking about
-Where crypto and AI meet, from a user-security point of view. Proof-of-human protocols. Zero-trust, zero-knowledge systems that assume nothing and reveal nothing. Backups that actually survive, and running things on prem so you own the whole stack. And the thing under all of it: keeping people anonymous while making the mundane stuff easy and approachable — so they can close the laptop and spend more time in meat space, enjoying real life.
+Where crypto and AI meet, from a user-security point of view. Proof-of-human protocols. Zero-trust, zero-knowledge systems that assume nothing and reveal nothing. Backups that actually survive, and running things on prem so you own the whole stack. And the thing under all of it: keeping people anonymous while making the mundane stuff easy and approachable, so they can close the laptop and spend more time *(in meat space)* enjoying real life.
 
 ### Off the clock
 Watches, systems-heavy indie games (Balatro, Inscryption, Graveyard Keeper), and cooking. Mostly the same instinct as the day job: things with hidden depth under a clean surface.
